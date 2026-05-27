@@ -1,0 +1,2769 @@
+[
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Nails x 20;Planks x 12",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Chair x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Rubber x 4;Tire Rim x 1",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Tire x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Aluminium Ingot x 2;Steel Ingot x 4",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Tire Rim x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Copper Wire x 8;Rubber x 4",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Insulated Wire x 8"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Gear x 4;Steel Rod x 2",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Crankshaft x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Crankshaft x 1;Plastic Casing x 2",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Gearbox x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Gear x 4;Plastic Casing x 2;Steel Rod x 2",
+        "mamyflux": "100000MF",
+        "time": 10,
+        "outputs": "Gearbox x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Gear x 8;Hardened Plastic Casing x 2;Steel Rod x 4",
+        "mamyflux": "200000MF",
+        "time": 10,
+        "outputs": "Gearbox x 2"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Black Dye x 6;Planks x 3",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Toy x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Graphite-Iron Electrode x 2;Lithium Carbonate x 4;Plastic Pellets x 10",
+        "mamyflux": "100000MF",
+        "time": 10,
+        "outputs": "Uncharged Lithium-Ion Battery x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Graphite-Zinc Electrode x 2;Lithium Carbonate x 4;Plastic Pellets x 10",
+        "mamyflux": "100000MF",
+        "time": 10,
+        "outputs": "Uncharged Lithium-Ion Battery x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Charged Lithium-Ion Battery x 8;Copper Plate x 12;Rubber x 8",
+        "mamyflux": "100000MF",
+        "time": 10,
+        "outputs": "Lithium Battery Pack x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Coal x 5;Iron Coil x 2;Paper x 2;Sand x 2",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Filter x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Coal x 5;Gravel x 2;Iron Coil x 2;Paper x 2",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Filter x 2"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Insulated Wire x 40;Steel Rod x 2",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Electromagnet x 2"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Gunpowder x 6;Paper x 6",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Dynamite x 1"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Electromagnet x 4;Ferroaluminium Magnet x 0.2;Machine Oil x 2;Steel Plate x 4;Steel Rod x 2",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Electric Motor x 2"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Electromagnet x 6;Machine Oil x 2;Steel Plate x 4;Steel Rod x 2",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Electric Motor x 2"
+    },
+    {
+        "machine": "Advanced Assembler",
+        "inputs": "Black Dye x 9;Paper x 6",
+        "mamyflux": "125000MF",
+        "time": 8,
+        "outputs": "Present Box x 2"
+    },
+    {
+        "machine": "Advanced Coal Drill",
+        "inputs": "",
+        "mamyflux": "9000MF",
+        "time": 12,
+        "outputs": "Coal x 3"
+    },
+    {
+        "machine": "Advanced Diesel Refinery",
+        "inputs": "Crude Diesel x 3.15;Machine Oil x 0.15",
+        "mamyflux": "1000000MF",
+        "time": 1,
+        "outputs": "Poor Quality Diesel x 2.87;Residue x 0.28"
+    },
+    {
+        "machine": "Advanced Diesel Refinery",
+        "inputs": "Diesel x 2.59;Machine Oil x 0.15",
+        "mamyflux": "1000000MF",
+        "time": 1,
+        "outputs": "Refined Diesel x 2.38;Residue x 0.21"
+    },
+    {
+        "machine": "Advanced Diesel Refinery",
+        "inputs": "Machine Oil x 0.15;Poor Quality Diesel x 2.87",
+        "mamyflux": "1000000MF",
+        "time": 1,
+        "outputs": "Diesel x 2.59;Residue x 0.28"
+    },
+    {
+        "machine": "Advanced Diesel Refinery",
+        "inputs": "Machine Oil x 0.15;Refined Diesel x 2.38",
+        "mamyflux": "1000000MF",
+        "time": 1,
+        "outputs": "Gasoline x 2.17;Residue x 0.21"
+    },
+    {
+        "machine": "Advanced Electric Furnace",
+        "inputs": "Iron Ingot x 2",
+        "mamyflux": "12000MF",
+        "time": 10,
+        "outputs": "Liquid Iron x 3.6"
+    },
+    {
+        "machine": "Advanced Electric Furnace",
+        "inputs": "Copper Mix x 5.33",
+        "mamyflux": "40000MF",
+        "time": 3,
+        "outputs": "Liquid Copper x 10.4"
+    },
+    {
+        "machine": "Advanced Electric Furnace",
+        "inputs": "Raw Copper x 2",
+        "mamyflux": "40000MF",
+        "time": 3,
+        "outputs": "Liquid Copper x 2"
+    },
+    {
+        "machine": "Advanced Electric Furnace",
+        "inputs": "Iron Mix x 6.4",
+        "mamyflux": "24000MF",
+        "time": 5,
+        "outputs": "Liquid Iron x 14"
+    },
+    {
+        "machine": "Advanced Electric Furnace",
+        "inputs": "Raw Iron x 2",
+        "mamyflux": "24000MF",
+        "time": 5,
+        "outputs": "Liquid Iron x 2"
+    },
+    {
+        "machine": "Advanced Electric Furnace",
+        "inputs": "Sulfur x 10",
+        "mamyflux": "24000MF",
+        "time": 5,
+        "outputs": "Liquid Sulfur x 20"
+    },
+    {
+        "machine": "Advanced Electric Furnace",
+        "inputs": "Copper Ingot x 2",
+        "mamyflux": "20000MF",
+        "time": 6,
+        "outputs": "Liquid Copper x 3.6"
+    },
+    {
+        "machine": "Advanced Oil Separator",
+        "inputs": "Crude Oil x 40;Steam x 500",
+        "mamyflux": "2500000MF",
+        "time": 10,
+        "outputs": "Coke Fuel x 4;Hydrogen Sulfide x 12;Light Oil x 20;Residue x 5"
+    },
+    {
+        "machine": "Advanced Oil Separator",
+        "inputs": "Heavy Oil x 40;Steam x 500",
+        "mamyflux": "2500000MF",
+        "time": 10,
+        "outputs": "Coke Fuel x 44;Residue x 10"
+    },
+    {
+        "machine": "Advanced Oil Separator",
+        "inputs": "Fracking Oil x 40;Steam x 500",
+        "mamyflux": "2500000MF",
+        "time": 10,
+        "outputs": "Heavy Oil x 4;Residue x 15"
+    },
+    {
+        "machine": "Advanced Oil Separator",
+        "inputs": "Light Oil x 40;Steam x 500",
+        "mamyflux": "2500000MF",
+        "time": 10,
+        "outputs": "Heavy Oil x 10;Hydrogen Sulfide x 6;Residue x 15"
+    },
+    {
+        "machine": "Advanced Oxidation Plant",
+        "inputs": "Mixed Uranium Oxides x 10;Oxygen x 100;Sulfuric Acid x 100",
+        "mamyflux": "1000000MF",
+        "time": 40,
+        "outputs": "Yellowcake x 4"
+    },
+    {
+        "machine": "Advanced Oxidation Plant",
+        "inputs": "Mixed Uranium Oxides x 10;Nitrogen x 100;Sulfuric Acid x 100",
+        "mamyflux": "1000000MF",
+        "time": 40,
+        "outputs": "Yellowcake x 8"
+    },
+    {
+        "machine": "Advanced Oxidation Plant",
+        "inputs": "Limestone x 10;Mixed Fissile Nitrates x 1;Oxygen x 120;Steam x 90",
+        "mamyflux": "1000000MF",
+        "time": 2,
+        "outputs": "Fission Byproducts x 4;Mixed Fissile Oxides x 1;Residue x 20"
+    },
+    {
+        "machine": "Advanced Oxidation Plant",
+        "inputs": "Limestone x 10;Mixed Fissile Nitrates x 1;Steam x 90;Tributyl Phosphate x 6",
+        "mamyflux": "1000000MF",
+        "time": 2,
+        "outputs": "Fission Byproducts x 2;Mixed Fissile Oxides x 2;Residue x 15"
+    },
+    {
+        "machine": "Advanced Oxidation Plant",
+        "inputs": "Oxygen x 60;Refined Gas x 120",
+        "mamyflux": "2000000MF",
+        "time": 6,
+        "outputs": "Ethanol x 60;Hydrogen x 30"
+    },
+    {
+        "machine": "Advanced Oxidation Plant",
+        "inputs": "Ethanol x 60;Oxygen x 30",
+        "mamyflux": "1000000MF",
+        "time": 2,
+        "outputs": "Acetic Acid x 60"
+    },
+    {
+        "machine": "Advanced Oxidation Plant",
+        "inputs": "Ethylene x 60;Oxygen x 45",
+        "mamyflux": "1000000MF",
+        "time": 2,
+        "outputs": "MEG x 45"
+    },
+    {
+        "machine": "Advanced Oxidation Plant",
+        "inputs": "Hydrogen Sulfide x 60;Oxygen x 60",
+        "mamyflux": "1000000MF",
+        "time": 2,
+        "outputs": "Liquid Sulfur x 30"
+    },
+    {
+        "machine": "Advanced Oxidation Plant",
+        "inputs": "Oxygen x 60;Sulfur Dioxide x 60",
+        "mamyflux": "1000000MF",
+        "time": 2,
+        "outputs": "Sulfur Trioxide x 40"
+    },
+    {
+        "machine": "American Oil Rig",
+        "inputs": "",
+        "mamyflux": "50000MF",
+        "time": 1,
+        "outputs": "Crude Oil x 0.24"
+    },
+    {
+        "machine": "Atmospheric Distillation Plant",
+        "inputs": "Fracking Oil x 200",
+        "mamyflux": "625000MF",
+        "time": 8,
+        "outputs": "Crude Oil x 20;Gasoline x 20;Heavy Oil x 40;Light Oil x 80;Naphtha x 10;Residue x 10;Water Free Gas x 720"
+    },
+    {
+        "machine": "Atmospheric Distillation Plant",
+        "inputs": "Water x 200",
+        "mamyflux": "625000MF",
+        "time": 8,
+        "outputs": "Concentrated Salt Solution x 64;Distilled Water x 136"
+    },
+    {
+        "machine": "Battery Charger",
+        "inputs": "Uncharged Lithium-Ion Battery x 2",
+        "mamyflux": "318000MF",
+        "time": 11,
+        "outputs": "Charged Lithium-Ion Battery x 2"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coal x 4;Iron Ingot x 1",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Steel Ingot x 2"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coal x 5;Iron Mix x 3.2",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Steel Ingot x 6"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coal x 1.66;Iron Powder x 1.6",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Iron Mix x 3.2"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coal x 3.32;Copper Powder x 2.66",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Copper Mix x 5.32"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coal x 4;Oak Log x 2",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Coke Fuel x 6"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coal x 4;Sand x 4",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Silicon x 5"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coke Fuel x 4;Sand x 4",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Silicon x 10"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coke Fuel x 4;Crushed Bauxite x 4",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Alumina x 6"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coke Fuel x 1;Iron Ingot x 2",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Steel Ingot x 6"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coke Fuel x 1.5;Iron Mix x 19.2",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Steel Ingot x 24"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coke Fuel x 1;Iron Powder x 4.8",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Iron Mix x 12.8"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coke Fuel x 1;Copper Powder x 7.98",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Copper Mix x 21.28"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coke Fuel x 2;Rock x 4",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Iron Mix x 6"
+    },
+    {
+        "machine": "Blast Furnace",
+        "inputs": "Coal x 4;Rock x 4",
+        "mamyflux": "15000MF",
+        "time": 5,
+        "outputs": "Iron Mix x 4"
+    },
+    {
+        "machine": "Blast Furnace MK2",
+        "inputs": "Coal x 300;Iron ingot x 100",
+        "mamyflux": "1250000MF",
+        "time": 20,
+        "outputs": "Steel Ingot x 200"
+    },
+    {
+        "machine": "Blast Furnace MK2",
+        "inputs": "Coal x 200;Oak Log x 50",
+        "mamyflux": "1250000MF",
+        "time": 20,
+        "outputs": "Coke Fuel x 300"
+    },
+    {
+        "machine": "Blast Furnace MK2",
+        "inputs": "Coke Fuel x 200;Oak Log x 10",
+        "mamyflux": "1250000MF",
+        "time": 20,
+        "outputs": "Coke Fuel x 300"
+    },
+    {
+        "machine": "Blast Furnace MK2",
+        "inputs": "Coke Fuel x 50;Iron Ingot x 100",
+        "mamyflux": "1250000MF",
+        "time": 20,
+        "outputs": "Steel Ingot x 300"
+    },
+    {
+        "machine": "Boiler",
+        "inputs": "Water x 3",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Steam x 90;Water x 3"
+    },
+    {
+        "machine": "Bottling Plant",
+        "inputs": "Filtered Water x 8;Plastic Bottle x 1",
+        "mamyflux": "2860MF",
+        "time": "3.5",
+        "outputs": "Water Bottle x 1"
+    },
+    {
+        "machine": "Bottling Plant",
+        "inputs": "Plastic Bottle x 1;Water x 8",
+        "mamyflux": "2860MF",
+        "time": "3.5",
+        "outputs": "Cheap Water Bottle x 1"
+    },
+    {
+        "machine": "Bottling Plant",
+        "inputs": "Plastic Bottle x 1;Residue x 8",
+        "mamyflux": "2860MF",
+        "time": "3.5",
+        "outputs": "Residue Bottle x 1"
+    },
+    {
+        "machine": "Bottling Plant",
+        "inputs": "Plastic Bottle x 1;Refined Diesel x 8",
+        "mamyflux": "2860MF",
+        "time": "3.5",
+        "outputs": "Refined Diesel Bottle x 1"
+    },
+    {
+        "machine": "Bottling Plant",
+        "inputs": "Crude Oil x 8;Plastic Bottle x 1",
+        "mamyflux": "2860MF",
+        "time": "3.5",
+        "outputs": "Oil Bottle x 1"
+    },
+    {
+        "machine": "Cat Assembler",
+        "inputs": "Electric Motor x 4;Gasoline x 31;Sulfur x 15",
+        "mamyflux": "0MF",
+        "time": 92,
+        "outputs": "Cat x 1"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Heavy Oil x 16;Naphtha x 10",
+        "mamyflux": "500000MF",
+        "time": 6,
+        "outputs": "Residue x 4;Rubber x 8"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Sulfur Trioxide x 20;Water x 20",
+        "mamyflux": "500000MF",
+        "time": 6,
+        "outputs": "Sulfuric Acid x 15"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Sulfur Trioxide x 20;Sulfuric Acid x 2;Water x 20",
+        "mamyflux": "1000000MF",
+        "time": 3,
+        "outputs": "Sulfuric Acid x 15"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Distilled Water x 20;Sulfur Trioxide x 20;Sulfuric Acid x 2",
+        "mamyflux": "1000000MF",
+        "time": 3,
+        "outputs": "Sulfuric Acid x 17"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Ethanol x 1;Gasoline x 9",
+        "mamyflux": "500000MF",
+        "time": 6,
+        "outputs": "GasolineE10 x 10"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Gasoline x 9;Tetraethyllead x 1",
+        "mamyflux": "500000MF",
+        "time": 6,
+        "outputs": "Leaded Gasoline x 10"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Microchip Scrap x 5;Sulfuric Acid x 5",
+        "mamyflux": "500000MF",
+        "time": 6,
+        "outputs": "Gold Ingot x 1"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Lithium Brine x 6;Sulfuric Acid x 0.9",
+        "mamyflux": "1500000MF",
+        "time": 2,
+        "outputs": "Dirty Lithium Sulfate x 4"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Lithium Sulfate x 8;Sodium Carbonate x 4;Water x 10",
+        "mamyflux": "750000MF",
+        "time": 4,
+        "outputs": "Lithium Carbonate x 4"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Lithium Ore x 4;Sodium Carbonate x 2;Sulfuric Acid x 1.4",
+        "mamyflux": "1500000MF",
+        "time": 4,
+        "outputs": "Lithium Sulfate x 4"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Sulfuric Acid x 2;Table Salt x 4",
+        "mamyflux": "1500000MF",
+        "time": 4,
+        "outputs": "Hydrochloric Acid x 4;Residue x 2"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Raw Zinc x 20;Sulfuric Acid x 2",
+        "mamyflux": "600000MF",
+        "time": 5,
+        "outputs": "Residue x 5;Zinc Sulfate x 15"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Chlorine x 20;Distilled Water x 5;Hydrogen x 20",
+        "mamyflux": "600000MF",
+        "time": 5,
+        "outputs": "Hydrochloric Acid x 5"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Hydrochloric Acid x 1;Raw Iron x 20",
+        "mamyflux": "600000MF",
+        "time": 5,
+        "outputs": "Residue x 4;Treated Raw Iron x 20"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Hydrochloric Acid x 1;Raw Copper x 20",
+        "mamyflux": "600000MF",
+        "time": 5,
+        "outputs": "Residue x 4;Treated Raw Copper x 20"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Steel Ingot x 20;Zinc x 5",
+        "mamyflux": "600000MF",
+        "time": 5,
+        "outputs": "Galvanized Steel x 20"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Ethanol x 4;Lead Ingot x 1",
+        "mamyflux": "600000MF",
+        "time": 5,
+        "outputs": "Tetraethyllead x 10"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Black Dye x 3;Hydrogen x 20;Powdered Tungsten x 4",
+        "mamyflux": "600000MF",
+        "time": 5,
+        "outputs": "Powdered Tungsten Carbide x 2"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Coal x 4;Sulfur x 8;Water x 10",
+        "mamyflux": "600000MF",
+        "time": 5,
+        "outputs": "Gunpowder x 4"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Filtered Water x 6;Treated Rock x 2",
+        "mamyflux": "750000MF",
+        "time": 4,
+        "outputs": "Sulfur x 1"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Chlorine x 2;Raw Zirconium x 2",
+        "mamyflux": "750000MF",
+        "time": 4,
+        "outputs": "Residue x 1;Zirconium Chloride x 2"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Distilled Water x 6;Zirconium Chloride x 2",
+        "mamyflux": "750000MF",
+        "time": 4,
+        "outputs": "Hydrochloric Acid x 3;Zirconium Dioxide x 2"
+    },
+    {
+        "machine": "Chemical Reactor",
+        "inputs": "Deep Earth Fragment x 1;Sulfuric Acid x 0.8",
+        "mamyflux": "750000MF",
+        "time": 4,
+        "outputs": "Hydrofluoric Acid x 1.8;Residue x 2"
+    },
+    {
+        "machine": "Coal Drill",
+        "inputs": "",
+        "mamyflux": "120MF",
+        "time": 4,
+        "outputs": "Coal x 1"
+    },
+    {
+        "machine": "Coal Generator",
+        "inputs": "Coal x 0.25;Water x 1.45",
+        "mamyflux": "-7000MF",
+        "time": 1,
+        "outputs": "Steam x 3"
+    },
+    {
+        "machine": "Compact Coal Power Plant",
+        "inputs": "Coal x 2",
+        "mamyflux": "-13500MF",
+        "time": "3.33",
+        "outputs": ""
+    },
+    {
+        "machine": "Concrete Plant",
+        "inputs": "Clay x 10;Water x 60",
+        "mamyflux": "4000MF",
+        "time": 10,
+        "outputs": "Clay Brick x 10"
+    },
+    {
+        "machine": "Concrete Plant",
+        "inputs": "Clay x 10;Iron Powder x 10;Water x 60",
+        "mamyflux": "4000MF",
+        "time": 10,
+        "outputs": "Clay Brick x 20"
+    },
+    {
+        "machine": "Concrete Plant",
+        "inputs": "Clay x 10;Limestone x 10;Water x 60",
+        "mamyflux": "4000MF",
+        "time": 10,
+        "outputs": "Clay Brick x 15"
+    },
+    {
+        "machine": "Concrete Plant",
+        "inputs": "Aggregate x 20;Cement x 10;Water x 60",
+        "mamyflux": "4000MF",
+        "time": 10,
+        "outputs": "Wet Concrete x 20"
+    },
+    {
+        "machine": "Concrete Plant",
+        "inputs": "Water x 10;Wet Concrete x 20",
+        "mamyflux": "4000MF",
+        "time": 10,
+        "outputs": "Concrete Block x 20"
+    },
+    {
+        "machine": "Concrete Plant",
+        "inputs": "Steel Rod x 40;Wet Concrete x 10",
+        "mamyflux": "4000MF",
+        "time": 10,
+        "outputs": "Reinforced Concrete Block x 10"
+    },
+    {
+        "machine": "Condenser",
+        "inputs": "Raw Gas x 60",
+        "mamyflux": "21000MF",
+        "time": 1,
+        "outputs": "Crude Oil x 0.3;Water x 1.5;Water-Free Gas x 30"
+    },
+    {
+        "machine": "Copper Drill",
+        "inputs": "",
+        "mamyflux": "360MF",
+        "time": 9,
+        "outputs": "Raw Copper x 1"
+    },
+    {
+        "machine": "Craft Assembler",
+        "inputs": "Nails x 20;Planks x 12",
+        "mamyflux": "4000MF",
+        "time": 15,
+        "outputs": "Chair x 1"
+    },
+    {
+        "machine": "Craft Assembler",
+        "inputs": "Rubber x 4;Tire Rim x 1",
+        "mamyflux": "4000MF",
+        "time": 15,
+        "outputs": "Tire x 1"
+    },
+    {
+        "machine": "Craft Assembler",
+        "inputs": "Aluminium Ingot x 2;Steel Ingot x 4",
+        "mamyflux": "4000MF",
+        "time": 15,
+        "outputs": "Tire Rim x 1"
+    },
+    {
+        "machine": "Craft Assembler",
+        "inputs": "Copper Wire x 40;Rubber x 20",
+        "mamyflux": "4000MF",
+        "time": 15,
+        "outputs": "Insulated Wire x 40"
+    },
+    {
+        "machine": "Craft Assembler",
+        "inputs": "Gear x 4;Steel Rod x 2",
+        "mamyflux": "4000MF",
+        "time": 15,
+        "outputs": "Crankshaft x 1"
+    },
+    {
+        "machine": "Craft Assembler",
+        "inputs": "Crankshaft x 1;Plastic Casing x 2",
+        "mamyflux": "4000MF",
+        "time": 15,
+        "outputs": "Gearbox x 1"
+    },
+    {
+        "machine": "Craft Assembler",
+        "inputs": "Black Dye x 6;Planks x 3",
+        "mamyflux": "4000MF",
+        "time": 15,
+        "outputs": "Toy x 1"
+    },
+    {
+        "machine": "Craft Assembler",
+        "inputs": "Black Dye x 9;Paper x 6",
+        "mamyflux": "4000MF",
+        "time": 15,
+        "outputs": "Present Box x 2"
+    },
+    {
+        "machine": "Crude Oil Separator",
+        "inputs": "Hot Crude Oil x 1.5",
+        "mamyflux": "2200MF",
+        "time": 1,
+        "outputs": "Crude Diesel x 0.675;Gasoline x 0.3;Residue x 0.3"
+    },
+    {
+        "machine": "Diesel Generator",
+        "inputs": "Crude Diesel x 0.1",
+        "mamyflux": "-55200MF",
+        "time": 5,
+        "outputs": ""
+    },
+    {
+        "machine": "Diesel Generator",
+        "inputs": "Poor Quality Diesel x 0.1",
+        "mamyflux": "-66000MF",
+        "time": 6,
+        "outputs": ""
+    },
+    {
+        "machine": "Diesel Generator",
+        "inputs": "Diesel x 0.1",
+        "mamyflux": "-78000MF",
+        "time": "7.67",
+        "outputs": ""
+    },
+    {
+        "machine": "Diesel Generator",
+        "inputs": "Refined Diesel x 0.1",
+        "mamyflux": "-90000MF",
+        "time": "10.33",
+        "outputs": ""
+    },
+    {
+        "machine": "Diesel Refinery",
+        "inputs": "Crude Diesel x 0.45",
+        "mamyflux": "1000MF",
+        "time": 1,
+        "outputs": "Poor Quality Diesel x 0.41;Residue x 0.04"
+    },
+    {
+        "machine": "Diesel Refinery",
+        "inputs": "Poor Quality Diesel x 0.41",
+        "mamyflux": "1000MF",
+        "time": 1,
+        "outputs": "Diesel x 0.37;Residue x 0.04"
+    },
+    {
+        "machine": "Diesel Refinery",
+        "inputs": "Diesel x 0.37",
+        "mamyflux": "1000MF",
+        "time": 1,
+        "outputs": "Refined Diesel x 0.34;Residue x 0.03"
+    },
+    {
+        "machine": "Diesel Refinery",
+        "inputs": "Refined Diesel x 0.34",
+        "mamyflux": "1000MF",
+        "time": 1,
+        "outputs": "Gasoline x 0.31;Residue x 0.03"
+    },
+    {
+        "machine": "Electric Furnace",
+        "inputs": "Raw Copper x 1",
+        "mamyflux": "400MF",
+        "time": 3,
+        "outputs": "Liquid Copper x 1"
+    },
+    {
+        "machine": "Electric Furnace",
+        "inputs": "Raw Iron x 1",
+        "mamyflux": "240MF",
+        "time": 5,
+        "outputs": "Liquid Iron x 1"
+    },
+    {
+        "machine": "Electric Furnace",
+        "inputs": "Iron Ingot x 1",
+        "mamyflux": "120MF",
+        "time": 10,
+        "outputs": "Liquid Iron x 1.8"
+    },
+    {
+        "machine": "Electric Furnace",
+        "inputs": "Copper Ingot x 1",
+        "mamyflux": "200MF",
+        "time": 6,
+        "outputs": "Liquid Copper x 1.8"
+    },
+    {
+        "machine": "Electric Furnace",
+        "inputs": "Copper Mix x 2.67",
+        "mamyflux": "400MF",
+        "time": 3,
+        "outputs": "Liquid Copper x 5.2"
+    },
+    {
+        "machine": "Electric Furnace",
+        "inputs": "Iron Mix x 3.2",
+        "mamyflux": "240MF",
+        "time": 5,
+        "outputs": "Liquid Iron x 7"
+    },
+    {
+        "machine": "Electric Furnace",
+        "inputs": "Sulfur x 5",
+        "mamyflux": "240MF",
+        "time": 5,
+        "outputs": "Liquid Sulfur x 10"
+    },
+    {
+        "machine": "Electrolysis Plant",
+        "inputs": "Water x 8",
+        "mamyflux": "750000MF",
+        "time": 30,
+        "outputs": "hydrogen x 60;oxygen x 30"
+    },
+    {
+        "machine": "Electrolysis Plant",
+        "inputs": "Concentrated Salt Solution x 8",
+        "mamyflux": "750000MF",
+        "time": 30,
+        "outputs": "Chlorine x 60;Sodium Hydroxide Solution x 8"
+    },
+    {
+        "machine": "Electrolysis Plant",
+        "inputs": "Zinc Sulfate x 8",
+        "mamyflux": "750000MF",
+        "time": 30,
+        "outputs": "Residue x 10;Zinc x 20"
+    },
+    {
+        "machine": "Filtration Plant",
+        "inputs": "Water x 4",
+        "mamyflux": "7500MF",
+        "time": 2,
+        "outputs": "Filtered Water x 3"
+    },
+    {
+        "machine": "Filtration Plant",
+        "inputs": "Filtered Water x 4",
+        "mamyflux": "7500MF",
+        "time": 2,
+        "outputs": "Water x 3"
+    },
+    {
+        "machine": "Filtration Plant",
+        "inputs": "Gasoline x 4",
+        "mamyflux": "7500MF",
+        "time": 2,
+        "outputs": "Crude Diesel x 2.4"
+    },
+    {
+        "machine": "Filtration Plant",
+        "inputs": "Refined Diesel x 4",
+        "mamyflux": "7500MF",
+        "time": 2,
+        "outputs": "Machine Oil x 2.4"
+    },
+    {
+        "machine": "Filtration Plant",
+        "inputs": "Heavy Oil x 4",
+        "mamyflux": "7500MF",
+        "time": 2,
+        "outputs": "Crude Oil x 3"
+    },
+    {
+        "machine": "Firebox",
+        "inputs": "Coal x 1;Water x 6",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Water x 6"
+    },
+    {
+        "machine": "Firebox",
+        "inputs": "Coal x 1;Filtered Water x 6",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Filtered Water x 6"
+    },
+    {
+        "machine": "Firebox",
+        "inputs": "Coal x 1;Distilled Water x 6",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Distilled Water x 6"
+    },
+    {
+        "machine": "Foundry",
+        "inputs": "Coke Fuel x 168;Raw Lead x 2000;Water x 5000",
+        "mamyflux": "6000000MF",
+        "time": 182,
+        "outputs": "Lead Ingot x 1000"
+    },
+    {
+        "machine": "Foundry",
+        "inputs": "Coke Fuel x 168;Raw Copper x 2000;Water x 5000",
+        "mamyflux": "6000000MF",
+        "time": 182,
+        "outputs": "Copper Ingot x 1000"
+    },
+    {
+        "machine": "Foundry",
+        "inputs": "Coke Fuel x 168;Raw Iron x 2000;Water x 5000",
+        "mamyflux": "6000000MF",
+        "time": 182,
+        "outputs": "Iron Ingot x 1000"
+    },
+    {
+        "machine": "Foundry",
+        "inputs": "Coke Fuel x 168;Treated Raw Copper x 400;Water x 5000",
+        "mamyflux": "6000000MF",
+        "time": 182,
+        "outputs": "Copper Ingot x 1000"
+    },
+    {
+        "machine": "Foundry",
+        "inputs": "Coke Fuel x 168;Treated Raw Iron x 400;Water x 5000",
+        "mamyflux": "6000000MF",
+        "time": 182,
+        "outputs": "Iron Ingot x 1000"
+    },
+    {
+        "machine": "Foundry",
+        "inputs": "Coal x 1680;Raw Lead x 2000;Water x 5000",
+        "mamyflux": "6000000MF",
+        "time": 182,
+        "outputs": "Lead Ingot x 1000"
+    },
+    {
+        "machine": "Foundry",
+        "inputs": "Coal x 1680;Raw Copper x 2000;Water x 5000",
+        "mamyflux": "6000000MF",
+        "time": 182,
+        "outputs": "Copper Ingot x 1000"
+    },
+    {
+        "machine": "Foundry",
+        "inputs": "Coal x 1680;Raw Iron x 2000;Water x 5000",
+        "mamyflux": "6000000MF",
+        "time": 182,
+        "outputs": "Iron Ingot x 1000"
+    },
+    {
+        "machine": "Foundry",
+        "inputs": "Coal x 1680;Treated Raw Copper x 400;Water x 5000",
+        "mamyflux": "6000000MF",
+        "time": 182,
+        "outputs": "Copper Ingot x 1000"
+    },
+    {
+        "machine": "Foundry",
+        "inputs": "Coal x 1680;Treated Raw Iron x 400;Water x 5000",
+        "mamyflux": "6000000MF",
+        "time": 182,
+        "outputs": "Iron Ingot x 1000"
+    },
+    {
+        "machine": "Gasoline Generator",
+        "inputs": "Gasoline x 0.1",
+        "mamyflux": "-12000MF",
+        "time": 2,
+        "outputs": ""
+    },
+    {
+        "machine": "Gasoline Generator",
+        "inputs": "GasolineE10 x 0.1",
+        "mamyflux": "-24000MF",
+        "time": 10,
+        "outputs": ""
+    },
+    {
+        "machine": "Gasoline Generator",
+        "inputs": "Leaded Gasoline x 0.1",
+        "mamyflux": "-100000MF",
+        "time": 5,
+        "outputs": ""
+    },
+    {
+        "machine": "Gas Burner",
+        "inputs": "Refined Gas x 30;Water x 30",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Water x 30"
+    },
+    {
+        "machine": "Gas Burner",
+        "inputs": "Hydrogen x 20;Water x 30",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Water x 30"
+    },
+    {
+        "machine": "Gas Centrifuge",
+        "inputs": "Unenriched UF6 Gas x 0.5",
+        "mamyflux": "1000000MF",
+        "time": 1,
+        "outputs": "Depleted UF6 Waste x 0.1;Slightly Enriched UF6 Gas x 0.1;Unenriched UF6 Gas x 0.25"
+    },
+    {
+        "machine": "Gas Centrifuge",
+        "inputs": "Slightly Enriched UF6 Gas x 0.5",
+        "mamyflux": "1000000MF",
+        "time": 1,
+        "outputs": "Depleted UF6 Waste x 0.1;Enriched UF6 Gas x 0.05;Slightly Enriched UF6 Gas x 0.3"
+    },
+    {
+        "machine": "Gas Refinery",
+        "inputs": "Water-Free Gas x 90",
+        "mamyflux": "60000MF",
+        "time": 1,
+        "outputs": "Refined Gas x 60;Residue x 3"
+    },
+    {
+        "machine": "Geothermal Well",
+        "inputs": "Water x 9.09",
+        "mamyflux": "3000MF",
+        "time": 1,
+        "outputs": "Water x 6.05"
+    },
+    {
+        "machine": "Geothermal Well",
+        "inputs": "Filtered Water x 9.09",
+        "mamyflux": "3000MF",
+        "time": 1,
+        "outputs": "Filtered Water x 6.05"
+    },
+    {
+        "machine": "Geothermal Well",
+        "inputs": "Distilled Water x 9.09",
+        "mamyflux": "3000MF",
+        "time": 1,
+        "outputs": "Distilled Water x 6.05"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "Acetic Acid x 2;Rich Soil x 1;Water x 6",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "10 Karat Gold x 1;Residue x 8"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "12 Karat Gold x 1;Acetic Acid x 2;Water x 6",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "18 Karat Gold x 1;Residue x 8"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "Rich Soil x 1;Sulfuric Acid x 4;Water x 4",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "18 Karat Gold x 1;Residue x 8"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "Shallow Earth Fragment x 4;Sulfuric Acid x 1;Water x 5",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "Bauxite Residue x 1;Residue x 8"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "Acetic Acid x 2;Medium Earth Fragment x 2;Water x 5",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "Raw Zinc x 4;Residue x 4"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "Medium Earth Fragment x 3;Sulfuric Acid x 2;Water x 5",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "Coal x 10;Residue x 6"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "Hydrochloric Acid x 2;Medium Earth Fragment x 5;Water x 5",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "Lithium Brine x 10;Rich Soil x 5"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "Deep Earth Fragment x 5;Hydrochloric Acid x 2;Water x 5",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "Coal x 10;Residue x 5"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "Deep Earth Fragment x 5;Sulfuric Acid x 2;Water x 5",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "Coal x 20;Residue x 5"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "Acetic Acid x 2;Deep Earth Fragment x 5;Water x 5",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "Coal x 5;Residue x 5"
+    },
+    {
+        "machine": "Gold Acid Refinery",
+        "inputs": "Acetic Acid x 1;Treated Rock x 5;Water x 5",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "8 Karat Gold x 5;Residue x 5"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Coal x 4",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Black Dye x 3"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Oak Log x 4;Water x 10",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Paper x 3"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Raw Iron x 3.2",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Iron Powder x 1.9"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Iron Ingot x 6",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Iron Powder x 0.5"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Raw Copper x 5.33",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Copper Powder x 2.66"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Copper Ingot x 6",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Copper Powder x 0.5"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Gravel x 8",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Sand x 10"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Bauxite Residue x 8",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Crushed Bauxite x 6"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Alumina x 4",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Alumina Dust x 4"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Microchip Scrap x 5;Sulfuric Acid x 0.5",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Gold Ingot x 0.5"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Soil x 12",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Gravel x 12"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Rock x 12",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Gravel x 12"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Filtered Water x 4;Shallow Earth Fragment x 6",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Raw Iron x 6"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Shallow Earth Fragment x 6",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Rock x 6"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Machine Oil x 2;Medium Earth Fragment x 3",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Shallow Earth Fragment x 6"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Deep Earth Fragment x 3",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Treated Rock x 6"
+    },
+    {
+        "machine": "Grinder",
+        "inputs": "Treated Rock x 6",
+        "mamyflux": "33000MF",
+        "time": 12,
+        "outputs": "Rich Soil x 6"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Distilled Water x 60;Treated Rock x 40",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Impure Boron x 2"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Raw Iron x 40",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Iron Powder x 25.6"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Raw Copper x 53.3",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Copper Powder x 26.6"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Gravel x 80",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Sand x 100"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Bauxite Residue x 80",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Crushed Bauxite x 60"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Alumina x 40",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Alumina Dust x 40"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Soil x 120",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Gravel x 120"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Rock x 120",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Gravel x 120"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Filtered Water x 40;Shallow Earth Fragment x 60",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Raw Iron x 60"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Shallow Earth Fragment x 60",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Rock x 60"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Machine Oil x 20;Medium Earth Fragment x 30",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Shallow Earth Fragment x 60"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Deep Earth Fragment x 30",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Treated Rock x 60"
+    },
+    {
+        "machine": "Grinder MK2",
+        "inputs": "Treated Rock x 60",
+        "mamyflux": "1250000MF",
+        "time": 16,
+        "outputs": "Rich Soil x 60"
+    },
+    {
+        "machine": "Heat Exchanger",
+        "inputs": "Distilled Water x 400",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Distilled Water x 400;High Pressure Steam x 400"
+    },
+    {
+        "machine": "Heat Exchanger",
+        "inputs": "Contaminated Water x 400;Distilled Water x 400",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Contaminated Water x 400;High Pressure Steam x 400"
+    },
+    {
+        "machine": "Industrial Diesel Refinery",
+        "inputs": "Crude Diesel x 2;Machine Oil x 0.2",
+        "mamyflux": "750000MF",
+        "time": 1,
+        "outputs": "Poor Quality Diesel x 1.8;Residue x 0.2"
+    },
+    {
+        "machine": "Industrial Diesel Refinery",
+        "inputs": "Machine Oil x 0.2;Poor Quality Diesel x 2",
+        "mamyflux": "750000MF",
+        "time": 1,
+        "outputs": "Diesel x 1.8;Residue x 0.2"
+    },
+    {
+        "machine": "Industrial Diesel Refinery",
+        "inputs": "Diesel x 2;Machine Oil x 0.2",
+        "mamyflux": "750000MF",
+        "time": 1,
+        "outputs": "Refined Diesel x 1.8;Residue x 0.2"
+    },
+    {
+        "machine": "Industrial Diesel Refinery",
+        "inputs": "Machine Oil x 0.2;Refined Diesel x 2",
+        "mamyflux": "750000MF",
+        "time": 1,
+        "outputs": "Gasoline x 1.8;Residue x 0.2"
+    },
+    {
+        "machine": "Industrial Drill",
+        "inputs": "Steam x 720",
+        "mamyflux": "0MF",
+        "time": 8,
+        "outputs": "Raw Copper x "
+    },
+    {
+        "machine": "Industrial Drill",
+        "inputs": "Steam x 720",
+        "mamyflux": "0MF",
+        "time": 8,
+        "outputs": "Raw Iron x "
+    },
+    {
+        "machine": "Industrial Drill",
+        "inputs": "Steam x 720",
+        "mamyflux": "0MF",
+        "time": 8,
+        "outputs": "Bauxite Residue x "
+    },
+    {
+        "machine": "Industrial Electric Furnace",
+        "inputs": "24 Karat Gold x 1",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Liquid Gold x 1"
+    },
+    {
+        "machine": "Industrial Electric Furnace",
+        "inputs": "18 Karat Gold x 1",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Liquid Gold x 0.4"
+    },
+    {
+        "machine": "Industrial Electric Furnace",
+        "inputs": "12 Karat Gold x 1",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Liquid Gold x 0.2"
+    },
+    {
+        "machine": "Industrial Electric Furnace",
+        "inputs": "10 Karat Gold x 1",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Liquid Gold x 0.1"
+    },
+    {
+        "machine": "Industrial Electric Furnace",
+        "inputs": "8 Karat Gold x 1",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Liquid Gold x 0.08"
+    },
+    {
+        "machine": "Industrial Electric Furnace",
+        "inputs": "Alumina Dust x 1",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Liquid Aluminium x 1"
+    },
+    {
+        "machine": "Industrial Electric Furnace",
+        "inputs": "Sand x 2",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Liquid Glass x 1"
+    },
+    {
+        "machine": "Industrial Electric Furnace",
+        "inputs": "Treated Raw Iron x 1",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Liquid Iron x 5"
+    },
+    {
+        "machine": "Industrial Firebox",
+        "inputs": "Liquid Sulfur x 4.5",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Sulfur Dioxide x 9"
+    },
+    {
+        "machine": "Industrial Firebox",
+        "inputs": "Water x 12",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Water x 12"
+    },
+    {
+        "machine": "Industrial Firebox",
+        "inputs": "Filtered Water x 12",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Filtered Water x 12"
+    },
+    {
+        "machine": "Industrial Firebox",
+        "inputs": "Distilled Water x 12",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Distilled Water x 12"
+    },
+    {
+        "machine": "Industrial Firebox",
+        "inputs": "Concentrated Salt Solution x 12",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Table Salt x 2;Water x 12"
+    },
+    {
+        "machine": "Industrial Firebox",
+        "inputs": "Oak Log x 1;Water x 12",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Sodium Carbonate x 16;Water x 12"
+    },
+    {
+        "machine": "Industrial Firebox",
+        "inputs": "Boric Acid x 2",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Boron x 1"
+    },
+    {
+        "machine": "Industrial Kiln",
+        "inputs": "Coal x 6.64;Iron Powder x 6.4",
+        "mamyflux": "15000MF",
+        "time": 20,
+        "outputs": "Iron Mix x 12.8"
+    },
+    {
+        "machine": "Industrial Kiln",
+        "inputs": "Coal x 13.28;Copper Powder x 6.4",
+        "mamyflux": "15000MF",
+        "time": 20,
+        "outputs": "Iron Mix x 21.28"
+    },
+    {
+        "machine": "Industrial Kiln",
+        "inputs": "Coke Fuel x 16;Crushed Bauxite x 16",
+        "mamyflux": "15000MF",
+        "time": 20,
+        "outputs": "Alumina Dust x 22.8"
+    },
+    {
+        "machine": "Industrial Kiln",
+        "inputs": "Coal x 16;Rock x 16",
+        "mamyflux": "15000MF",
+        "time": 20,
+        "outputs": "Iron Mix x 16"
+    },
+    {
+        "machine": "Industrial Kiln",
+        "inputs": "Coal x 20;Rawmix x 30",
+        "mamyflux": "15000MF",
+        "time": 20,
+        "outputs": "Cement x 20"
+    },
+    {
+        "machine": "Industrial Kiln",
+        "inputs": "Coke Fuel x 10;Rawmix x 30",
+        "mamyflux": "15000MF",
+        "time": 20,
+        "outputs": "Cement x 20"
+    },
+    {
+        "machine": "Industrial Kiln",
+        "inputs": "Coke Fuel x 8;Rock x 16",
+        "mamyflux": "15000MF",
+        "time": 20,
+        "outputs": "Iron Mix x 24"
+    },
+    {
+        "machine": "Industrial Kiln",
+        "inputs": "Coke Fuel x 4;Iron Powder x 19.2",
+        "mamyflux": "15000MF",
+        "time": 20,
+        "outputs": "Iron Mix x 51.2"
+    },
+    {
+        "machine": "Industrial Kiln",
+        "inputs": "Coke Fuel x 4;Copper Powder x 31.92",
+        "mamyflux": "15000MF",
+        "time": 20,
+        "outputs": "Copper Mix x 85.12"
+    },
+    {
+        "machine": "Industrial Oil Separator",
+        "inputs": "Heavy Oil x 4;Steam x 20",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "Light Oil x 1;Machine Oil x 2;Residue x 0.5"
+    },
+    {
+        "machine": "Industrial Oil Separator",
+        "inputs": "Light Oil x 4;Steam x 20",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "Crude Oil x 0.5;Diesel x 2;Residue x 1.5"
+    },
+    {
+        "machine": "Industrial Oil Separator",
+        "inputs": "Fracking Oil x 40;Fracking Oil x 40;Steam x 20",
+        "mamyflux": "100000MF",
+        "time": 5,
+        "outputs": "Crude Oil x 30;Residue x 10"
+    },
+    {
+        "machine": "Industrial Plastic Molder",
+        "inputs": "Plastic Pellets x 60",
+        "mamyflux": "20000MF",
+        "time": 12,
+        "outputs": "Plastic Bottle x 6"
+    },
+    {
+        "machine": "Industrial Plastic Molder",
+        "inputs": "Plastic Pellets x 120",
+        "mamyflux": "20000MF",
+        "time": 12,
+        "outputs": "Plastic Casing x 6"
+    },
+    {
+        "machine": "Industrial Plastic Molder",
+        "inputs": "Hardened Plastic Pellets x 60",
+        "mamyflux": "20000MF",
+        "time": 12,
+        "outputs": "Hardened Plastic Casing x 6"
+    },
+    {
+        "machine": "Industrial Press",
+        "inputs": "Copper Ingot x 1",
+        "mamyflux": "1340MF",
+        "time": 3,
+        "outputs": "Copper Plate x 1"
+    },
+    {
+        "machine": "Industrial Press",
+        "inputs": "Planks x 1",
+        "mamyflux": "1140MF",
+        "time": "3.5",
+        "outputs": "Plank^2 x 0.25"
+    },
+    {
+        "machine": "Industrial Press",
+        "inputs": "Steel Ingot x 1",
+        "mamyflux": "12500MF",
+        "time": 4,
+        "outputs": "Steel Plate x 1"
+    },
+    {
+        "machine": "Industrial Press",
+        "inputs": "Iron Ingot x 1",
+        "mamyflux": "1000MF",
+        "time": 4,
+        "outputs": "Iron Plate x 1"
+    },
+    {
+        "machine": "Industrial Press",
+        "inputs": "Iron Plate x 1",
+        "mamyflux": "75MF",
+        "time": 4,
+        "outputs": "Iron Plate^2 x 0.25"
+    },
+    {
+        "machine": "Industrial Roller",
+        "inputs": "Copper Plate x 2",
+        "mamyflux": "750000MF",
+        "time": 6,
+        "outputs": "Copper Wire x 12"
+    },
+    {
+        "machine": "Industrial Roller",
+        "inputs": "Iron Plate x 2",
+        "mamyflux": "1125MF",
+        "time": 6,
+        "outputs": "Iron Coil x 4"
+    },
+    {
+        "machine": "Industrial Roller",
+        "inputs": "Steel Ingot x 2",
+        "mamyflux": "9375MF",
+        "time": 6,
+        "outputs": "Steel Rod x 2"
+    },
+    {
+        "machine": "Industrial Roller",
+        "inputs": "Steel Plate x 2",
+        "mamyflux": "9375MF",
+        "time": 6,
+        "outputs": "Gear x 2"
+    },
+    {
+        "machine": "Industrial Roller",
+        "inputs": "Iron Ingot x 2",
+        "mamyflux": "9375MF",
+        "time": 6,
+        "outputs": "Nails x 16"
+    },
+    {
+        "machine": "Industrial Roller",
+        "inputs": "Ferroaluminium Alloy Ingot x 2",
+        "mamyflux": "1125MF",
+        "time": 6,
+        "outputs": "Ferroaluminium Magnet x 1"
+    },
+    {
+        "machine": "Industrial Roller",
+        "inputs": "",
+        "mamyflux": "11250MF",
+        "time": 6,
+        "outputs": "Gold Wire x 20"
+    },
+    {
+        "machine": "Industrial Roller",
+        "inputs": "",
+        "mamyflux": "100000MF",
+        "time": 6,
+        "outputs": "Zirconium Rod x 0.1"
+    },
+    {
+        "machine": "Industrial Sawmill",
+        "inputs": "Oak Log x 8",
+        "mamyflux": "0MF",
+        "time": 10,
+        "outputs": "Cut Oak Log x 16"
+    },
+    {
+        "machine": "Industrial Sawmill",
+        "inputs": "Cut Oak Log x 8",
+        "mamyflux": "0MF",
+        "time": 10,
+        "outputs": "Chunk Plank x 8"
+    },
+    {
+        "machine": "Industrial Sawmill",
+        "inputs": "Chunk Plank x 8",
+        "mamyflux": "0MF",
+        "time": 10,
+        "outputs": "Planks x 24"
+    },
+    {
+        "machine": "Industrial Sawmill",
+        "inputs": "Iron Ingot x 3",
+        "mamyflux": "0MF",
+        "time": 10,
+        "outputs": "Iron Plate x 12"
+    },
+    {
+        "machine": "Ingot Molder",
+        "inputs": "Liquid Copper x 4",
+        "mamyflux": "150MF",
+        "time": 4,
+        "outputs": "Copper Ingot x 2"
+    },
+    {
+        "machine": "Ingot Molder",
+        "inputs": "Liquid Sulfur x 4",
+        "mamyflux": "150MF",
+        "time": 4,
+        "outputs": "Sulfur x 2"
+    },
+    {
+        "machine": "Ingot Molder",
+        "inputs": "Liquid Iron x 4",
+        "mamyflux": "150MF",
+        "time": 4,
+        "outputs": "Iron Ingot x 2"
+    },
+    {
+        "machine": "Ingot Molder",
+        "inputs": "Liquid Gold x 4",
+        "mamyflux": "150MF",
+        "time": 4,
+        "outputs": "Gold Ingot x 2"
+    },
+    {
+        "machine": "Ingot Molder",
+        "inputs": "Molten Ferroaluminium Alloy x 4",
+        "mamyflux": "150MF",
+        "time": 4,
+        "outputs": "Ferroaluminium Alloy Ingot x 2"
+    },
+    {
+        "machine": "Ingot Molder",
+        "inputs": "Molten Purple Gold x 4",
+        "mamyflux": "150MF",
+        "time": 4,
+        "outputs": "Purple Gold Ingot x 2"
+    },
+    {
+        "machine": "Ingot Molder",
+        "inputs": "Liquid Aluminium x 4",
+        "mamyflux": "150MF",
+        "time": 4,
+        "outputs": "Aluminium Ingot x 2"
+    },
+    {
+        "machine": "Ingot Molder",
+        "inputs": "Liquid Glass x 4",
+        "mamyflux": "150MF",
+        "time": 4,
+        "outputs": "Glass x 2"
+    },
+    {
+        "machine": "Ingot Molder",
+        "inputs": "Liquid Lead x 8",
+        "mamyflux": "150MF",
+        "time": 4,
+        "outputs": "Lead Ingot x 4"
+    },
+    {
+        "machine": "Ingot Molder",
+        "inputs": "Liquid Brass x 8",
+        "mamyflux": "150MF",
+        "time": 4,
+        "outputs": "Brass Ingot x 4"
+    },
+    {
+        "machine": "Iron Drill",
+        "inputs": "",
+        "mamyflux": "1200MF",
+        "time": 15,
+        "outputs": "Raw Iron x 1"
+    },
+    {
+        "machine": "Kiln",
+        "inputs": "Clay Brick x 30",
+        "mamyflux": "7220MF",
+        "time": 60,
+        "outputs": "Brick x 30"
+    },
+    {
+        "machine": "Large Diesel Engine",
+        "inputs": "Crude Diesel x 20;Machine Oil x 1",
+        "mamyflux": "-5000000MF",
+        "time": 10,
+        "outputs": ""
+    },
+    {
+        "machine": "Large Diesel Engine",
+        "inputs": "Machine Oil x 1;Poor Quality Diesel x 15",
+        "mamyflux": "-5000000MF",
+        "time": 10,
+        "outputs": ""
+    },
+    {
+        "machine": "Large Diesel Engine",
+        "inputs": "Diesel x 10;Machine Oil x 1",
+        "mamyflux": "-5000000MF",
+        "time": 10,
+        "outputs": ""
+    },
+    {
+        "machine": "Large Diesel Engine",
+        "inputs": "Machine Oil x 1;Refined Diesel x 7",
+        "mamyflux": "-5000000MF",
+        "time": 10,
+        "outputs": ""
+    },
+    {
+        "machine": "Large Pumpjack",
+        "inputs": "",
+        "mamyflux": "30000MF",
+        "time": 1,
+        "outputs": "Crude Oil x 1"
+    },
+    {
+        "machine": "Large Pumpjack",
+        "inputs": "Hydrochloric Acid x 1",
+        "mamyflux": "15000MF",
+        "time": 1,
+        "outputs": "Crude Oil x 2.5"
+    },
+    {
+        "machine": "Large Pumpjack",
+        "inputs": "Sulfuric Acid x 1",
+        "mamyflux": "30000MF",
+        "time": 1,
+        "outputs": "Crude Oil x 3"
+    },
+    {
+        "machine": "Large Pumpjack",
+        "inputs": "Acetic Acid x 1",
+        "mamyflux": "30000MF",
+        "time": 1,
+        "outputs": "Crude Oil x 2"
+    },
+    {
+        "machine": "Lathe",
+        "inputs": "Copper Ingot x 700",
+        "mamyflux": "500000MF",
+        "time": 60,
+        "outputs": "Copper Drill Head x 1"
+    },
+    {
+        "machine": "Lathe",
+        "inputs": "Iron Ingot x 2100",
+        "mamyflux": "500000MF",
+        "time": 160,
+        "outputs": "Iron Drill Head x 1"
+    },
+    {
+        "machine": "Lathe",
+        "inputs": "Steel Ingot x 3500",
+        "mamyflux": "500000MF",
+        "time": 200,
+        "outputs": "Steel Drill Head x 1"
+    },
+    {
+        "machine": "Lathe",
+        "inputs": "Tungsten Carbide Plate x 3500",
+        "mamyflux": "500000MF",
+        "time": 240,
+        "outputs": "Tungsten Carbide Drill Head x 1"
+    },
+    {
+        "machine": "Lathe",
+        "inputs": "Steel Coil x 60",
+        "mamyflux": "100000MF",
+        "time": 30,
+        "outputs": "Steel Rod x 60"
+    },
+    {
+        "machine": "Liquid Boiler",
+        "inputs": "Crude Oil x 0.75",
+        "mamyflux": "10000MF",
+        "time": 1,
+        "outputs": "Hot Crude Oil x 0.75"
+    },
+    {
+        "machine": "Liquid Boiler",
+        "inputs": "Water x 0.6",
+        "mamyflux": "10000MF",
+        "time": 1,
+        "outputs": "Water x 0.6"
+    },
+    {
+        "machine": "Lithium Brine Extractor",
+        "inputs": "Water x 60",
+        "mamyflux": "100000MF",
+        "time": 120,
+        "outputs": "Lithium Brine x 120;Residue x 10"
+    },
+    {
+        "machine": "Lithium Ore Drill",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 10,
+        "outputs": "Lithium Ore x 10"
+    },
+    {
+        "machine": "LNG Plant",
+        "inputs": "",
+        "mamyflux": "2250000MF",
+        "time": 1,
+        "outputs": "LNG x 6.6"
+    },
+    {
+        "machine": "Natural Gas Well",
+        "inputs": "",
+        "mamyflux": "45000MF",
+        "time": 1,
+        "outputs": "Raw Gas x 30"
+    },
+    {
+        "machine": "OG Oil Rig",
+        "inputs": "",
+        "mamyflux": "3000MF",
+        "time": 1,
+        "outputs": "Crude Oil x 0.12"
+    },
+    {
+        "machine": "Oil Fracking Tower",
+        "inputs": "",
+        "mamyflux": "62500MF",
+        "time": 8,
+        "outputs": "Fracking Oil x 100"
+    },
+    {
+        "machine": "Oil Fracking Tower",
+        "inputs": "",
+        "mamyflux": "62500MF",
+        "time": 8,
+        "outputs": "Fracking Oil x 100"
+    },
+    {
+        "machine": "Oil Rig",
+        "inputs": "",
+        "mamyflux": "3000MF",
+        "time": 1,
+        "outputs": "Crude Oil x 0.12"
+    },
+    {
+        "machine": "Ore Enrichment Facility",
+        "inputs": "",
+        "mamyflux": "500000MF",
+        "time": 10,
+        "outputs": "Mixed Uranium Oxides x 5;Residue x 60;Sand x 20"
+    },
+    {
+        "machine": "Ore Enrichment Facility",
+        "inputs": "",
+        "mamyflux": "500000MF",
+        "time": 10,
+        "outputs": "Mixed Uranium Oxides x 6;Residue x 60;Sand x 20"
+    },
+    {
+        "machine": "Ore Enrichment Facility",
+        "inputs": "",
+        "mamyflux": "500000MF",
+        "time": 10,
+        "outputs": "Fission Byproducts x 95;Mixed Uranium Oxides x 5;Residue x 5"
+    },
+    {
+        "machine": "Ore Enrichment Facility",
+        "inputs": "",
+        "mamyflux": "500000MF",
+        "time": 10,
+        "outputs": "Fission Byproducts x 93;Mixed Uranium Oxides x 7;Residue x 10"
+    },
+    {
+        "machine": "Ore Enrichment Facility",
+        "inputs": "",
+        "mamyflux": "500000MF",
+        "time": 4,
+        "outputs": "Lithium Carbonate x 18;Residue x 20"
+    },
+    {
+        "machine": "Ore Enrichment Facility",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 4,
+        "outputs": "Powdered Tungsten Carbide x 7;Residue x 20"
+    },
+    {
+        "machine": "Ore Enrichment Facility",
+        "inputs": "",
+        "mamyflux": "2000000MF",
+        "time": 2,
+        "outputs": "24 Karat Gold x 1.8;Bauxite Residue x 4;Residue x 10"
+    },
+    {
+        "machine": "Ore Enrichment Facility",
+        "inputs": "",
+        "mamyflux": "800000MF",
+        "time": 15,
+        "outputs": "Residue x 50;Treated Raw Iron x 75"
+    },
+    {
+        "machine": "Ore Enrichment Facility",
+        "inputs": "",
+        "mamyflux": "800000MF",
+        "time": 15,
+        "outputs": "Residue x 50;Treated Raw Copper x 75"
+    },
+    {
+        "machine": "Oxidation Plant",
+        "inputs": "",
+        "mamyflux": "500000MF",
+        "time": 20,
+        "outputs": "Acetic Acid x 60"
+    },
+    {
+        "machine": "Oxidation Plant",
+        "inputs": "",
+        "mamyflux": "500000MF",
+        "time": 20,
+        "outputs": "MEG x 18"
+    },
+    {
+        "machine": "Oxidation Plant",
+        "inputs": "",
+        "mamyflux": "500000MF",
+        "time": 20,
+        "outputs": "Liquid Sulfur x 30"
+    },
+    {
+        "machine": "Oxidation Plant",
+        "inputs": "",
+        "mamyflux": "833000MF",
+        "time": 12,
+        "outputs": "Sulfur Trioxide x 40"
+    },
+    {
+        "machine": "Oxidation Plant",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "Acetic Acid x 60"
+    },
+    {
+        "machine": "Oxidation Plant",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "MEG x 18"
+    },
+    {
+        "machine": "Oxidation Plant",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "Liquid Sulfur x 30"
+    },
+    {
+        "machine": "Oxidation Plant",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 3,
+        "outputs": "Sulfur Trioxide x 40"
+    },
+    {
+        "machine": "Paper Mill",
+        "inputs": "",
+        "mamyflux": "62500MF",
+        "time": 4,
+        "outputs": "Paper x 8"
+    },
+    {
+        "machine": "Paper Mill",
+        "inputs": "",
+        "mamyflux": "125000MF",
+        "time": 2,
+        "outputs": "Paper x 16"
+    },
+    {
+        "machine": "Plastic Molding Machine",
+        "inputs": "",
+        "mamyflux": "14000MF",
+        "time": 7,
+        "outputs": "Plastic Bottle x 2"
+    },
+    {
+        "machine": "Plastic Molding Machine",
+        "inputs": "",
+        "mamyflux": "14000MF",
+        "time": 7,
+        "outputs": "Plastic Casing x 1"
+    },
+    {
+        "machine": "Plastic Production Facility",
+        "inputs": "",
+        "mamyflux": "80000MF",
+        "time": 6,
+        "outputs": "Plastic Pellets x 80"
+    },
+    {
+        "machine": "Plastic Refinery",
+        "inputs": "",
+        "mamyflux": "60000MF",
+        "time": 4,
+        "outputs": "Ethanol x 2"
+    },
+    {
+        "machine": "Plastic Refinery",
+        "inputs": "",
+        "mamyflux": "60000MF",
+        "time": 4,
+        "outputs": "PTA x 2"
+    },
+    {
+        "machine": "Polisher",
+        "inputs": "",
+        "mamyflux": "500000MF",
+        "time": 1,
+        "outputs": "Distilled Water x 400"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "Logic Plate x 2"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "Semiconductor x 2"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "167000MF",
+        "time": 30,
+        "outputs": "8x Microchip x 1"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "Graphite-Iron Electrode x 1"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "Graphite-Zinc Electrode x 1"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "Standard Fuel Rod x 1"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "Control Rod x 1"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "MOX Fuel Rod x 1"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 5,
+        "outputs": "Low Enrichment Fuel Rod x 1"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 20,
+        "outputs": "Uncharged Lithium-Ion Battery x 8"
+    },
+    {
+        "machine": "Precision Assembler",
+        "inputs": "",
+        "mamyflux": "1000000MF",
+        "time": 20,
+        "outputs": "Uncharged Lithium-Ion Battery x 8"
+    },
+    {
+        "machine": "Pressurized Water Filter",
+        "inputs": "Rich Soil x 4;Water x 20",
+        "mamyflux": "200kMF",
+        "time": 5,
+        "outputs": "8 Karat Gold x 2;Residue x 8"
+    },
+    {
+        "machine": "Pressurized Water Filter",
+        "inputs": "10 Karat Gold x 4;Water x 20",
+        "mamyflux": "200kMF",
+        "time": 5,
+        "outputs": "12 Karat Gold x 2;Residue x 4"
+    },
+    {
+        "machine": "Pressurized Water Filter",
+        "inputs": "18 Karat Gold x 4;Water x 20",
+        "mamyflux": "200kMF",
+        "time": 5,
+        "outputs": "24 Karat Gold x 2;Residue x 4"
+    },
+    {
+        "machine": "Pressurized Water Filter",
+        "inputs": "Dirty Lithium Sulfate x 10;Water x 20",
+        "mamyflux": "200kMF",
+        "time": 5,
+        "outputs": "Lithium Sulfate x 10;Residue x 10"
+    },
+    {
+        "machine": "Pressurized Water Filter",
+        "inputs": "Medium Earth Fragment x 5;Water x 20",
+        "mamyflux": "200kMF",
+        "time": 5,
+        "outputs": "Concentrated Salt Solution x 10;Raw Iron x 5"
+    },
+    {
+        "machine": "Pressurized Water Filter",
+        "inputs": "Deep Earth Fragment x 5;Water x 20",
+        "mamyflux": "200kMF",
+        "time": 5,
+        "outputs": "Coal x 10;Naphtha x 2.5"
+    },
+    {
+        "machine": "Pressurized Water Filter",
+        "inputs": "Treated Rock x 5;Water x 20",
+        "mamyflux": "200000MF",
+        "time": 5,
+        "outputs": "Residue x 5;Rock x 5"
+    },
+    {
+        "machine": "Press",
+        "inputs": "Copper Ingot x 1",
+        "mamyflux": "1000MF",
+        "time": 4,
+        "outputs": "Copper Plate x 1"
+    },
+    {
+        "machine": "Press",
+        "inputs": "Iron Ingot x 1",
+        "mamyflux": "2000MF",
+        "time": 4,
+        "outputs": "Iron Plate x 1"
+    },
+    {
+        "machine": "Press",
+        "inputs": "Steel Ingot x 1",
+        "mamyflux": "12500MF",
+        "time": 4,
+        "outputs": "Steel Plate x 1"
+    },
+    {
+        "machine": "Press",
+        "inputs": "Planks x 1",
+        "mamyflux": "6250MF",
+        "time": 4,
+        "outputs": "Plank^2 x 0.25"
+    },
+    {
+        "machine": "Press",
+        "inputs": "Iron Plate x 1",
+        "mamyflux": "6250MF",
+        "time": 4,
+        "outputs": "Iron Plate^2 x 0.25"
+    },
+    {
+        "machine": "Press MK2",
+        "inputs": "Iron Ingot x 20",
+        "mamyflux": "50kMF",
+        "time": 8,
+        "outputs": "Iron Plate x 20"
+    },
+    {
+        "machine": "Press MK2",
+        "inputs": "Steel Ingot x 20",
+        "mamyflux": "75kMF",
+        "time": 8,
+        "outputs": "Steel Plate x 20"
+    },
+    {
+        "machine": "Press MK2",
+        "inputs": "Copper Ingot x 20",
+        "mamyflux": "25kMF",
+        "time": 4,
+        "outputs": "Copper Plate x 20"
+    },
+    {
+        "machine": "Press MK2",
+        "inputs": "Powdered Tungsten Carbide x 3",
+        "mamyflux": "250kMF",
+        "time": 4,
+        "outputs": "Tungsten Carbide Plate x 1.5"
+    },
+    {
+        "machine": "Press MK2",
+        "inputs": "Steel Plate",
+        "mamyflux": "75kMF",
+        "time": 4,
+        "outputs": "Gear x 20"
+    },
+    {
+        "machine": "Quarry",
+        "inputs": "",
+        "mamyflux": "50000MF",
+        "time": 20,
+        "outputs": "Clay x 60;Soil x 60"
+    },
+    {
+        "machine": "Quarry",
+        "inputs": "",
+        "mamyflux": "50000MF",
+        "time": 20,
+        "outputs": "Sand x 60"
+    },
+    {
+        "machine": "Quarry",
+        "inputs": "",
+        "mamyflux": "50000MF",
+        "time": 20,
+        "outputs": "Limestone x 60"
+    },
+    {
+        "machine": "Quarry",
+        "inputs": "",
+        "mamyflux": "50000MF",
+        "time": 20,
+        "outputs": "Clay x 120;Soil x 120"
+    },
+    {
+        "machine": "Quarry",
+        "inputs": "",
+        "mamyflux": "50000MF",
+        "time": 20,
+        "outputs": "Sand x 120"
+    },
+    {
+        "machine": "Quarry",
+        "inputs": "",
+        "mamyflux": "50000MF",
+        "time": 20,
+        "outputs": "Limestone x 120"
+    },
+    {
+        "machine": "Raw Mill",
+        "inputs": "",
+        "mamyflux": "2500MF",
+        "time": 20,
+        "outputs": "Aggregate x 20;Rawmix x 20"
+    },
+    {
+        "machine": "Raw Mill",
+        "inputs": "",
+        "mamyflux": "2500MF",
+        "time": 20,
+        "outputs": "Rawmix x 20"
+    },
+    {
+        "machine": "Raw Mill",
+        "inputs": "",
+        "mamyflux": "2500MF",
+        "time": 20,
+        "outputs": "Aggregate x 20"
+    },
+    {
+        "machine": "Residue Refinery",
+        "inputs": "",
+        "mamyflux": "3000000MF",
+        "time": 60,
+        "outputs": "Crude Diesel x 5;Crude Oil x 10;Heavy Oil x 15"
+    },
+    {
+        "machine": "Roller",
+        "inputs": "",
+        "mamyflux": "500MF",
+        "time": 8,
+        "outputs": "Copper Wire x 12"
+    },
+    {
+        "machine": "Roller",
+        "inputs": "",
+        "mamyflux": "750MF",
+        "time": 8,
+        "outputs": "Iron Coil x 4"
+    },
+    {
+        "machine": "Roller",
+        "inputs": "",
+        "mamyflux": "6250MF",
+        "time": 8,
+        "outputs": "Steel Rod x 2"
+    },
+    {
+        "machine": "Roller",
+        "inputs": "",
+        "mamyflux": "6250MF",
+        "time": 8,
+        "outputs": "Gear x 2"
+    },
+    {
+        "machine": "Roller",
+        "inputs": "",
+        "mamyflux": "750MF",
+        "time": 8,
+        "outputs": "Nails x 16"
+    },
+    {
+        "machine": "Roller",
+        "inputs": "",
+        "mamyflux": "7500MF",
+        "time": 8,
+        "outputs": "Gold Wire x 20"
+    },
+    {
+        "machine": "Roller MK2",
+        "inputs": "",
+        "mamyflux": "25000MF",
+        "time": 8,
+        "outputs": "Copper Wire x 120"
+    },
+    {
+        "machine": "Roller MK2",
+        "inputs": "",
+        "mamyflux": "50000MF",
+        "time": 8,
+        "outputs": "Iron Coil x 40;Iron Coil x 40"
+    },
+    {
+        "machine": "Roller MK2",
+        "inputs": "",
+        "mamyflux": "75000MF",
+        "time": 8,
+        "outputs": "Steel Coil x 20"
+    },
+    {
+        "machine": "Roller MK2",
+        "inputs": "",
+        "mamyflux": "25000MF",
+        "time": 8,
+        "outputs": "Gold Wire x 40"
+    },
+    {
+        "machine": "Sand Excavator",
+        "inputs": "",
+        "mamyflux": "300000MF",
+        "time": 2,
+        "outputs": "Sand x 4"
+    },
+    {
+        "machine": "Sawmill",
+        "inputs": "",
+        "mamyflux": "3000MF",
+        "time": 20,
+        "outputs": "Cut Oak Log x 2"
+    },
+    {
+        "machine": "Sawmill",
+        "inputs": "",
+        "mamyflux": "3000MF",
+        "time": 20,
+        "outputs": "Chunk Plank x 1"
+    },
+    {
+        "machine": "Sawmill",
+        "inputs": "",
+        "mamyflux": "3000MF",
+        "time": 20,
+        "outputs": "Planks x 3"
+    },
+    {
+        "machine": "Sawmill",
+        "inputs": "",
+        "mamyflux": "3000MF",
+        "time": 20,
+        "outputs": "Iron Plate x 4"
+    },
+    {
+        "machine": "Scrubber",
+        "inputs": "",
+        "mamyflux": "15000MF",
+        "time": 4,
+        "outputs": "Residue x 4"
+    },
+    {
+        "machine": "Scrubber",
+        "inputs": "",
+        "mamyflux": "15000MF",
+        "time": 4,
+        "outputs": "Residue x 4"
+    },
+    {
+        "machine": "Mineshaft Drill @ 300m",
+        "inputs": "Steel Drill Head x 0.0000258;Hydrochloric Acid x 1.5",
+        "mamyflux": "3.1MMF",
+        "time": 1,
+        "outputs": "Sand x 3;Gravel x 3;Soil x 3;Rich Soil x 0.999"
+    },
+    {
+        "machine": "Mineshaft Drill @ 900m",
+        "inputs": "Steel Drill Head x 0.000141;Hydrochloric Acid x 1.49",
+        "mamyflux": "3.08MMF",
+        "time": 1,
+        "outputs": "Coal x 5.96;Gravel x 8.94;Raw Iron x 4.97;Raw Copper x 4.97"
+    },
+    {
+        "machine": "Mineshaft Drill @ 1200m",
+        "inputs": "Steel Drill Head x 0.000206;Hydrochloric Acid x 1.48",
+        "mamyflux": "3.06MMF",
+        "time": 1,
+        "outputs": "Coal x 19.8;Gravel x 5.93;Raw Iron x 9.88;Shallow Earth Fragment x 2.96"
+    },
+    {
+        "machine": "Mineshaft Drill @ 1500m",
+        "inputs": "Steel Drill Head x 0.000267;Hydrochloric Acid x 1.47",
+        "mamyflux": "3.04MMF",
+        "time": 1,
+        "outputs": "Raw Lead x 0.981;Gravel x 7.85;Raw Iron x 7.85;Shallow Earth Fragment x 4.9"
+    },
+    {
+        "machine": "Mineshaft Drill @ 1800m",
+        "inputs": "Steel Drill Head x 0.000321;Hydrochloric Acid x 1.46",
+        "mamyflux": "3.02MMF",
+        "time": 1,
+        "outputs": "Raw Lead x 4.87;Rock x 7.78;Medium Earth Fragment x 1.95;Shallow Earth Fragment x 0.973"
+    },
+    {
+        "machine": "Mineshaft Drill @ 2000m",
+        "inputs": "Steel Drill Head x 0.000353;Hydrochloric Acid x 1.45",
+        "mamyflux": "3MMF",
+        "time": 1,
+        "outputs": "Raw Lead x 8.97;Medium Earth Fragment x 3.24;Rock x 9.06"
+    },
+    {
+        "machine": "Mineshaft Drill @ 6000m",
+        "inputs": "Steel Drill Head x 0.000593;Hydrochloric Acid x 1.28",
+        "mamyflux": "2.65MMF",
+        "time": 1,
+        "outputs": "Coal x 45.9;Raw Lead x 10.3;Rock x 4.41"
+    },
+    {
+        "machine": "Mineshaft Drill @ 8000m",
+        "inputs": "Steel Drill Head x 0.000635;Hydrochloric Acid x 1.18",
+        "mamyflux": "2.47MMF",
+        "time": 1,
+        "outputs": "Bauxite Residue x 1.67;Rock x 8.41;Deep Earth Fragment x 9.19"
+    },
+    {
+        "machine": "Mineshaft Drill @ 9000m",
+        "inputs": "Steel Drill Head x 0.000648;Hydrochloric Acid x 1.14",
+        "mamyflux": "2.38MMF",
+        "time": 1,
+        "outputs": "Raw Lead x 6.52;Raw Zirconium x 0.547;Raw Iron x 2.67"
+    },
+    {
+        "machine": "Tree",
+        "inputs": "Tree Farm Controller x 0.001;Tree Farm Output x 0.001;Tree Farm Sprinkler x 0.023;Tree Farm Water Tank x 0.001; Farm Harvester x 0.067",
+        "mamyflux": "0MF",
+        "time": 345,
+        "outputs": "Oak Log x 2"
+    },
+    {
+        "machine": "Tree Farm Controller",
+        "inputs": "Tree Farm Output x 0.001;Tree Farm Water Tank x 0.001;Farm Harvester x 0.001",
+        "mamyflux": "600kMF",
+        "time": 1,
+        "outputs": "Tree Farm Controller x 1"
+    },
+    {
+        "machine": "Tree Farm Sprinkler",
+        "inputs": "Tree Farm Controller x 0.001;Tree Farm Water Tank x 0.001",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Tree Farm Sprinkler x 1"
+    },
+    {
+        "machine": "Tree Farm Output",
+        "inputs": "Tree Farm Controller x 0.001;Farm Harvester x 0.001",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Tree Farm Output x 1"
+    },
+    {
+        "machine": "Tree Farm Water Tank",
+        "inputs": "Tree Farm Controller x 0.001;Water x 2.1",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Tree Farm Water Tank x 1"
+    },
+    {
+        "machine": "Farm Harvester",
+        "inputs": "Tree Farm Controller x 0.001;Tree Farm Output x 0.001",
+        "mamyflux": "0MF",
+        "time": 1,
+        "outputs": "Farm Harvester x 1"
+    },
+    {
+        "machine": "Water Pump2",
+        "inputs": "",
+        "mamyflux": "700MF",
+        "time": 6,
+        "outputs": "Water x 36"
+    },
+    {
+        "machine": "Chemical Plant",
+        "inputs": "Chlorine x 20;Hydrogen x 20;Distilled Water x 10;Argon x 20",
+        "mamyflux": "1.5MMF",
+        "time": 1,
+        "outputs": "Hydrochloric Acid x 10"
+    },
+    {
+        "machine": "Chemical Plant",
+        "inputs": "Sulfur Trioxide x 14;Distilled Water x 11;Argon x 70",
+        "mamyflux": "1.5MMF",
+        "time": 1,
+        "outputs": "Sulfuric Acid x 11;Residue x 2"
+    },
+    {
+        "machine": "Vaporizer",
+        "inputs": "Liquid Argon x 3",
+        "mamyflux": "15kMF",
+        "time": 1,
+        "outputs": "Argon x 90"
+    },
+    {
+        "machine": "Air Separation Unit",
+        "inputs": "",
+        "mamyflux": "20MMF",
+        "time": 1,
+        "outputs": "Liquid Nitrogen x 60;Liquid Oxygen x 15;Liquid Argon x 3;Residue x 1"
+    }
+
+
+]
