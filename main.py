@@ -514,10 +514,11 @@ if __name__ == "__main__":
     
     print(f"\n[*] Running optimization for: {DEMAND}\n")
     
-    opt = IndustrialistOptimizer('Machines.json', 'Recipes.json')
+    opt = IndustrialistOptimizer('constants/Machines.json', 'constants/Recipes.json')
     res, is_best = opt.run(DEMAND, optimize_for="machines", banned_machines=banned_machines, min_tier=1, show_best=False)
     
     if res:
         if is_best: print("\n*** NOTE: SHOWING BEST EFFORT BUILD (RESOURCES MISSING) ***")
         opt.print_report(res, targets=DEMAND)
         opt.save_to_ga_json(res, DEMAND, "Out.json")
+        display_factory_layout("Out.json")
